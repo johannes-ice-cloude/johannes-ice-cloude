@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <!-- የሚንቀሳቀስ የላይኛው ባነር (Animated Typing Banner) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Yohannes+(Ice_cloud);Senior+Full-Stack+Web+Developer;Enterprise+Network+Engineer;Building+Next-Gen+Hospital+%26+Logistics+Software" alt="Typing SVG" />
@@ -107,4 +107,4 @@
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." 😉</i></p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." 😉</i></p> -->
