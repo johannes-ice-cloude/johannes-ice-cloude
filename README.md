@@ -21,12 +21,12 @@
     <!-- አጭር መግቢያ እና ቋንቋዎች -->
     <td align="left" valign="top" width="70%">
       <h3>🚀 About Me</h3>
-      <p>I am a dedicated Software Engineer, Network Specialist, and Systems Administrator bridging the gap between robust software architectures and enterprise-grade networking paradigms. I design, build, and audit high-throughput distributed systems and critical network infrastructures.</p>
+      <p>I am a Backend developer, Network Specialist, and Systems Administrator bridging the gap between robust software architectures and enterprise-grade networking paradigms. I design, build, and audit high-throughput distributed systems and critical network infrastructures.</p>
       <p><b>🌐 Languages Spoken / ቋንቋዎች / اللغات:</b></p>
       <ul>
         <li><b>English:</b> Professional Working Proficiency</li>
         <li><b>Amharic (አማርኛ):</b> Native / Bilingual Proficiency</li>
-        <li><b>Arabic (العربية):</b> Technical / Working Proficiency</li>
+       
       </ul>
     </td>
   </tr>
