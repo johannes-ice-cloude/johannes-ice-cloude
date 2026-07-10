@@ -1,40 +1,49 @@
-<p align="center">
-  <!-- Typing Effect Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Yohannes+(Ice_cloud);Senior+Full-Stack+Web+Developer;Enterprise+Network+Engineer;Cybersecurity+%26+Reverse+Engineering" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johannes-ice-cloude&color=238636&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintained">
-  <img src="https://img.shields.io/badge/Location-Ethiopia-blue?style=flat-square" alt="Location">
+  <!-- የሚንቀሳቀስ የላይኛው ባነር (Animated Typing Banner) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Yohannes+(Ice_cloud);Senior+Full-Stack+Web+Developer;Enterprise+Network+Engineer;Building+Next-Gen+Hospital+%26+Logistics+Software" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 👤 About Me & Language Matrix
-
-<table align="center" width="100%">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <!-- 📸 ያንተ ፎቶ ቦታ (ያንተን ፎቶ GitHub ላይ አፕሎድ አድርገህ ሊንኩን እዚህ መተካት ትችላለህ) -->
-    <td align="center" width="30%">
-      <img src="https://github.com/johannes-ice-cloude.png" width="180px" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Yohannes Profile Picture" />
-      <br />
-      <b>Yohannes Deme</b>
+    <!-- የአንተ ፎቶ ማሳያ (Profile Picture Placement) -->
+    <!-- ማሳሰቢያ፡ 'YOUR_IMAGE_URL_HERE' የሚለውን በእራስህ የፎቶ ሊንክ ተካው (ለምሳሌ የ GitHub ፎቶህን ሊንክ) -->
+    <td align="center" valign="top" width="30%">
+      <img src="https://github.com/johannes-ice-cloude.png" width="180px" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Yohannes Profile" />
+      <br/><br/>
+      <b>Yohannes Deme</b><br/>
+      <sub>Adama, Ethiopia 🇪🇹</sub>
     </td>
-    <!-- 🌐 የሚነገሩ ቋንቋዎች -->
-    <td width="70%" valign="top">
-      <h3>🌐 Languages Spoken / ቋንቋዎች / اللغات</h3>
+    <!-- አጭር መግቢያ እና ቋንቋዎች -->
+    <td align="left" valign="top" width="70%">
+      <h3>🚀 About Me</h3>
+      <p>I am a dedicated Software Engineer, Network Specialist, and Systems Administrator bridging the gap between robust software architectures and enterprise-grade networking paradigms. I design, build, and audit high-throughput distributed systems and critical network infrastructures.</p>
+      <p><b>🌐 Languages Spoken / ቋንቋዎች / اللغات:</b></p>
       <ul>
         <li><b>English:</b> Professional Working Proficiency</li>
         <li><b>Amharic (አማርኛ):</b> Native / Bilingual Proficiency</li>
         <li><b>Arabic (العربية):</b> Technical / Working Proficiency</li>
       </ul>
-      <p><i>"Bridging the gap between secure, enterprise software architectures and complex network infrastructure paradigms."</i></p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🤝 Connect With Me / አግኙኝ
+<p align="center">
+  <a href="https://www.linkedin.com/in/yohannes-deme-1bb72226a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:johannesdeme026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/your_telegram_username" target="blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/your_x_username" target="blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://wa.me/your_phone_number" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+---
 
 ---
 
