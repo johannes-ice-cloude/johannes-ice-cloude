@@ -26,7 +26,6 @@
       <ul>
         <li><b>English:</b> Professional Working Proficiency</li>
         <li><b>Amharic (አማርኛ):</b> Native / Bilingual Proficiency</li>
-        //<li><b>Arabic (العربية):</b> Technical / Working Proficiency</li>
       </ul>
     </td>
   </tr>
