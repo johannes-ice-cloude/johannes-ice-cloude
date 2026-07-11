@@ -1,4 +1,6 @@
-
+<p align="center">
+  <h3 align="center"> Dear X 🇪🇹</h3>
+</p>
 <p align="center">
   <!-- የሚንቀሳቀስ የላይኛው ባነር (Animated Typing Banner) -->
 <p align="center">
