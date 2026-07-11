@@ -15,7 +15,7 @@
     <td align="center" valign="top" width="30%">
       <img src="https://github.com/johannes-ice-cloude.png" width="180px" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Yohannes Profile" />
       <br/><br/>
-      <b>Yohannes Deme</b><br/>
+      <b>Yohannes D.</b><br/>
       <sub>Adama, Ethiopia 🇪🇹</sub>
     </td>
     <!-- አጭር መግቢያ እና ቋንቋዎች -->
