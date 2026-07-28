@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center"> Dear X 🇪🇹</h3>
+  <h3 align="center"> Dear Y 🇪🇹</h3>
 </p>
 <p align="center">
   <!-- የሚንቀሳቀስ የላይኛው ባነር (Animated Typing Banner) -->
