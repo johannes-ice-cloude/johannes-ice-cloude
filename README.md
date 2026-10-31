@@ -88,7 +88,7 @@ Advanced experience architecting secure, reliable, and high-availability enterpr
 
 ## 🌟 Featured Engineering Projects
 
-### 🏥 1. Awash Hospital Management Suite
+### 🏥 1.  Hospital Management Suite
 *   **Description:** A production-grade distributed system tailored to optimize inpatient workflows, multi-department appointment queues, and real-time medical charting.
 *   **Stack:** MERN Stack (MongoDB, Express, React, Node.js) / Laravel Backend Core.
 *   **Key Feature:** Features an advanced database auditing layer for security compliance and robust inventory tracking metrics.
